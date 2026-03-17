@@ -1,0 +1,7 @@
+**/node_modules
+admin/dist
+app/dist
+app/.next
+**/.DS_Store
+**/*.log
+**/*.tsbuildinfo

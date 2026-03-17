@@ -1,0 +1,3 @@
+{
+	admin unix//app/run/caddy-admin.sock
+}
