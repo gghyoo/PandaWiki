@@ -28,8 +28,9 @@ go.work.sum
 
 .vscode
 
-deploy
+/deploy
 local
+backend/deploy/.env
 
 .idea
 __debug*
